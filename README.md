@@ -83,7 +83,6 @@ NLP_Phase_5_Project/
     |-- Project_5_FSM.ipynb
     |-- merged_notebook.ipynb
 |-- Disater_Messages_NLP_Project_5.ipynb
-|-- Disater_Messages_NLP_Project_5.pdf
 |-- presentation.pdf
 |-- Project_proposal.pdf
 |-- requirements.txt
@@ -104,5 +103,6 @@ NLP_Phase_5_Project/
 
 3. **Run the notebook**:  
    Execute all cells in `nlp_haiti_disaster.ipynb` sequentially.
+
 
 > **Note**: All results are reproducible with `random_state=42`. Expected output: `Accuracy ≈ 0.773 | Macro F1 ≈ 0.773 | ROC-AUC ≈ 0.86`
