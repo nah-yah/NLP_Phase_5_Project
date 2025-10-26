@@ -2,7 +2,8 @@
 
 > *Automated triage for humanitarian response using interpretable NLP*
 
-Amee Hashley JEUDY 
+Amee Hashley JEUDY
+
 Woodnalie Saviola JOSEPH 
 
 In the chaotic aftermath of the 2010 Haiti earthquake, responders were overwhelmed by thousands of crisis messages many containing urgent pleas for food, water, or shelter. This project builds an **interpretable NLP classifier** that automatically identifies genuine aid requests from informational noise, using real-world SMS and social media data. The final model achieves **77% F1-score** and **0.86 ROC-AUC**, while providing transparent, actionable insights for field teams.
@@ -109,6 +110,7 @@ NLP_Phase_5_Project/
 
 
 > **Note**: All results are reproducible with `random_state=42`. Expected output: `Accuracy ≈ 0.773 | Macro F1 ≈ 0.773 | ROC-AUC ≈ 0.86`
+
 
 
 
